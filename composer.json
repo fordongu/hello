@@ -1,0 +1,15 @@
+{
+	"name": "crmoun-modules/hello",
+	"description": "",
+	"authors": [
+		{
+			"name": "crmoun Labs",
+			"email": "dev@crmoun.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Modules\\Hello\\": ""
+		}
+	}
+}
